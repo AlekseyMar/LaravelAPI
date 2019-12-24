@@ -13,6 +13,14 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
+//Route::middleware('auth:api')->get('/user', function (Request $request) {
+//    return $request->user();
+//S});
+
+Route::prefix('/freelancer')->group(function(){
+    Route::get('/', ['user' => 'UserController@getUser']);
+    //выборка всех юзеров
+    Route::get('/', ['user' => 'UserController@getUser']);
+    //выборка одного юзера
+    
 });
