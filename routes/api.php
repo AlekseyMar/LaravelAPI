@@ -18,9 +18,9 @@ use Illuminate\Http\Request;
 //S});
 
 Route::prefix('/freelancer')->group(function(){
-    Route::get('/', ['user' => 'UserController@getUser']);
+    Route::get('/', ['uses' => 'UserController@getUser']);
     //выборка всех юзеров
-    Route::get('/', ['user' => 'UserController@getUser']);
+    Route::post('/', ['uses' => 'UserController@getUser']);
     //выборка одного юзера
     
 });
