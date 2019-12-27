@@ -1,0 +1,29 @@
+[33mcommit dd4e5c4c27e8202469afc465826bba48d0a884bf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: AlekseyMar <alekseyamart@gmail.com>
+Date:   Thu Dec 26 22:59:19 2019 +0200
+
+    можно войти только после авторизации
+
+[33mcommit 0cda638ac5f21e48495b5b9dafca9ad9a79825fe[m
+Author: AlekseyMar <alekseyamart@gmail.com>
+Date:   Thu Dec 26 21:21:38 2019 +0200
+
+    SleepingOwl Admindev
+
+[33mcommit 38c35cade09cb0aa13d5aae923fbd2b277abb7b6[m
+Author: AlekseyMar <alekseyamart@gmail.com>
+Date:   Tue Dec 24 19:54:23 2019 +0200
+
+    добавил поля в регистрацию
+
+[33mcommit 1b2aa85664694e0f3d0c66f743c65802110f75b1[m
+Author: AlekseyMar <alekseyamart@gmail.com>
+Date:   Mon Dec 23 21:33:48 2019 +0200
+
+    registration inqlude
+
+[33mcommit bfb3e1925692e469b2278a6ec2d0f60e5becabaf[m
+Author: AlekseyMar <alekseyamart@gmail.com>
+Date:   Sun Dec 22 20:41:26 2019 +0200
+
+    laravel inst
